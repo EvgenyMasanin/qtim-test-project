@@ -1,0 +1,4 @@
+export enum ArticleCacheKey {
+  ARTICLE_LIST_CACHE = 'ARTICLE_LIST_CACHE',
+  ARTICLE_CACHE = 'ARTICLE_CACHE',
+}
